@@ -60,3 +60,9 @@ The analysis pipeline includes:
   `pandas`, `numpy`, `matplotlib`
 
 
+  ## 📚 Acknowledgements / Influences
+
+Some of the workflow and scripts in this repository were influenced by the [PombeUpf1 repository](https://github.com/Brogna-Lab/PombeUpf1) developed by Dr. Saverio Brogna’s lab.  
+Particularly, the use of **pickle files for metagene analysis** and the general ChIP-seq processing pipeline were adapted and customized for this project.
+
+
